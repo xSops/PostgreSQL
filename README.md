@@ -4,7 +4,8 @@ Projet réalisé en cour de PostgreSQL
 - Clément cloux 
 # Project Title
 
-Nous avons pour but de mettre en place une application backup qui permet de sauvegarder/restaurer/gérer/chiffrer l'ensemble des bases de données présentes sur un serveur web mis en place avec MySql administré et adminstré par PhpMyAdmin.
+Nous avons pour but de mettre en place une application backup qui permet de sauvegarder/restaurer/gérer/chiffrer l'ensemble 
+des bases de données présentes sur un serveur web mis en place avec MySql administré et adminstré par PhpMyAdmin.
 
 
 
@@ -14,17 +15,17 @@ Pour commencer, nous avons choisis l'environnement Windows car c'est l'environne
 
 Nous reflechissons à un ordre de tâche à effectuer afin de réussir au mieux ce projet : 
 Thomas : Mise à jour régulière du Readme 
-          - Documenter l'installation de la BDD avec Wamp
-          - Réfléchir avec Clément pour documenter le chemin de réflexion afin de réaliser chaque étapes du script.
-          - Documenter l'installation des wordpress générateur de data. 
+- Documenter l'installation de la BDD avec Wamp
+- Réfléchir avec Clément pour documenter le chemin de réflexion afin de réaliser chaque étapes du script.
+- Documenter l'installation des wordpress générateur de data. 
 Clément : Commencer à réaliser le script en .bat sous windows ( car c'est l'essentiel du projet, la partie qui sera importante pour la notation )
 
 ### Prerequisites
-Être sous Windows
-Avoir un IDE 
-Savoir lire
-Installer WAMP 
-Savoir utiliser Wordpress
+- Être sous Windows
+- Avoir un IDE 
+- Savoir lire
+- Installer WAMP 
+- Savoir utiliser Wordpress / générer de la data
 
 ```
 Give examples
@@ -35,7 +36,7 @@ Give examples
 Installer WAMP 
 
 ```
-Give the example
+Se rendre sur ce lien : http://www.wampserver.com/en/#download-wrapper 
 ```
 
 And repeat
