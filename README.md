@@ -4,15 +4,27 @@ Projet réalisé en cour de PostgreSQL
 - Clément cloux 
 # Project Title
 
-One Paragraph of project description goes here
+Nous avons pour but de mettre en place une application backup qui permet de sauvegarder/restaurer/gérer/chiffrer l'ensemble des bases de données présentes sur un serveur web mis en place avec MySql administré et adminstré par PhpMyAdmin.
+
+
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Pour commencer, nous avons choisis l'environnement Windows car c'est l'environnement avec lequel nous somme le plus familié.
+
+Nous reflechissons à un ordre de tâche à effectuer afin de réussir au mieux ce projet : 
+Thomas : Mise à jour régulière du Readme 
+          - Documenter l'installation de la BDD avec Wamp
+          - Réfléchir avec Clément pour documenter le chemin de réflexion afin de réaliser chaque étapes du script.
+          - Documenter l'installation des wordpress générateur de data. 
+Clément : Commencer à réaliser le script en .bat sous windows ( car c'est l'essentiel du projet, la partie qui sera importante pour la notation )
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
+Être sous Windows
+Avoir un IDE 
+Savoir lire
+Installer WAMP 
+Savoir utiliser Wordpress
 
 ```
 Give examples
@@ -20,9 +32,7 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Installer WAMP 
 
 ```
 Give the example
@@ -66,9 +76,6 @@ Add additional notes about how to deploy this on a live system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -80,9 +87,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
