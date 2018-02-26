@@ -18,6 +18,7 @@ Thomas : Mise à jour régulière du Readme
 - Documenter l'installation de la BDD avec Wamp
 - Réfléchir avec Clément pour documenter le chemin de réflexion afin de réaliser chaque étapes du script.
 - Documenter l'installation des wordpress générateur de data. 
+
 Clément : Commencer à réaliser le script en .bat sous windows ( car c'est l'essentiel du projet, la partie qui sera importante pour la notation )
 
 ### Prerequisites
